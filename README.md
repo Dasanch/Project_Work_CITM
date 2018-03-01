@@ -1,4 +1,4 @@
-# Project 1
+# Project 1_Homework
 TODO: Write a project description
 
 ## Installation
@@ -19,9 +19,7 @@ feature'`
 TODO: Write history
 
 ## Credits
-Yessica Servin Dominguez
-Alejandro Gamarra Niño
-Dani Sanchez Flores
+Daniel Sanchez Flores
 
 ## License
 No Lincense
